@@ -1,5 +1,5 @@
 # 💫 About Me:
-  Fifth semester software engineering student of the Business University Foundation University of the Bogotá Chamber of Commerce - Uniempresarial, basic management of:<br>-Syntax in programming languages ​​Python, C++, C#,PHP, JavaScript, Java,C, Latino;<br>-Basic management of PHP Laravel and Bootstrap<br>-HTML markup language;<br>-Unity Hub editor;<br>-Web development, web maintenance and reports.<br>-Excel<br>High English level (C1.1)
+  Sixth semester software engineering student of the Business University Foundation University of the Bogotá Chamber of Commerce - Uniempresarial, basic management of:<br>-Syntax in programming languages ​​Python, C++, C#,PHP, JavaScript, Java,C, Latino;<br>-Basic management of PHP Laravel and Bootstrap<br>-HTML markup language;<br>-Unity Hub editor;<br>-Web development, web maintenance and reports.<br>-Excel<br>High English level (C1.1)
 
 
 ## 🌐 Socials:
